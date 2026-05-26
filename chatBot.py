@@ -7,7 +7,7 @@ from openai import OpenAI
 from dotenv import load_dotenv
 import os
 
-load_dotenv()
+# load_dotenv()
 
 
 
@@ -19,7 +19,8 @@ class ChatRequest(BaseModel):
 # GROQ CLIENT
 # -----------------------------
 client = OpenAI(
-    api_key=os.environ.get("API_KEY"),
+    # api_key=os.environ.get("API_KEY"),
+    api_key=st.secrets["API_KEY"],
     base_url="https://api.groq.com/openai/v1",
 )
 
