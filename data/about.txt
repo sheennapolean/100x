@@ -1,0 +1,3 @@
+
+about:
+With a strong focus on enhancing trust and safety through video surveillance, my tenure at Soul of Pluto as a Jr Data Scientist allowed me to hone my expertise in deep neural networks. As I advance towards completing my Master's in Computer Science at Northern Arizona University, I apply the technical skills acquired from my previous role as a Computer Vision Engineer at HackBoats. Our team effectively leveraged cutting-edge technologies to improve monitoring solutions. My core competencies lie in the intersection of technology and security, ensuring that each project we undertake advances the state of safety in digital environments.

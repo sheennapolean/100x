@@ -1,0 +1,22 @@
+data/sai_silks_experience.txt
+
+Client: Sai Silks Kalamandir
+Role: Machine Learning Engineer
+Duration: February 2021 – Present
+
+Worked as a Machine Learning Engineer on enterprise AI initiatives focused on customer analytics, NLP systems, forecasting models, and cloud-based AI deployment for large-scale retail operations.
+
+Designed and implemented LSTM-based time series forecasting models to predict customer footfall across retail stores. Built scalable forecasting pipelines using TensorFlow and PyTorch that improved prediction accuracy by approximately 80%. These forecasting systems enabled more efficient workforce allocation, inventory planning, and operational optimization.
+
+Developed scalable machine learning training pipelines using TensorFlow, PyTorch, and Scikit-learn. Improved model training efficiency by approximately 30% through distributed training techniques, optimized preprocessing pipelines, feature engineering improvements, and GPU utilization enhancements.
+
+Built and fine-tuned NLP systems using BERT and GPT-based transformer architectures for customer support automation. Developed conversational AI systems and chatbot workflows that improved customer engagement by 48% and increased response accuracy by 35%. Worked on tokenization strategies, embedding generation, prompt engineering, and conversational context management.
+
+Deployed machine learning models using Docker and Kubernetes on AWS SageMaker, Azure ML Studio, and Google Cloud Vertex AI. Built reusable deployment pipelines and automated model serving workflows, reducing deployment failures by 40% and improving scalability across production environments.
+
+Enhanced ETL and data engineering pipelines using Apache Spark for distributed data processing. Reduced ingestion and transformation time from approximately 3 hours to 30 minutes by implementing parallelized Spark workflows and optimized data partitioning strategies.
+
+Collaborated closely with data engineers, analysts, product teams, and business stakeholders to integrate AI insights into operational decision-making systems. Contributed to reducing operational costs by approximately 20% through AI-driven optimization initiatives.
+
+Technologies Used:
+Python, TensorFlow, PyTorch, Scikit-learn, HuggingFace Transformers, Apache Spark, MLFlow, Docker, Kubernetes, AWS SageMaker, Azure ML Studio, GCP Vertex AI, SQL, Pandas, Git, Jira

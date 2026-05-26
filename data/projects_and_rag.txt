@@ -1,0 +1,13 @@
+data/projects_and_rag.txt
+
+Built AI-powered conversational systems using retrieval-augmented generation (RAG) architectures integrating vector databases, embeddings, and large language models. Worked on contextual retrieval systems capable of dynamically retrieving relevant knowledge from structured and unstructured datasets.
+
+Developed FastAPI-based backend systems for AI applications including chatbot APIs, interview bots, and NLP services. Integrated vector search using ChromaDB for semantic retrieval and contextual response generation.
+
+Worked with embedding models including Sentence Transformers and HuggingFace embedding architectures to improve semantic search quality and retrieval accuracy across enterprise knowledge systems.
+
+Implemented prompt engineering techniques for improving response relevance, conversational consistency, and context retention in LLM-powered applications.
+
+Designed scalable AI application architectures using Docker containers, Kubernetes orchestration, and cloud deployment workflows.
+
+Built data preprocessing pipelines for cleaning, chunking, embedding, and indexing large volumes of textual data including resumes, LinkedIn profiles, project documentation, and enterprise knowledge repositories.

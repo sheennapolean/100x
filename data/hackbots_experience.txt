@@ -1,0 +1,18 @@
+data/hackbots_experience.txt
+
+Client: HackBots
+Role: AI/Machine Learning Intern
+Duration: May 2020 – January 2021
+
+Worked on machine learning and NLP solutions focused on customer analytics, churn prediction, sentiment analysis, and business intelligence automation.
+
+Developed customer churn prediction models using XGBoost and advanced feature engineering techniques. Improved churn prediction accuracy from 78% to 91% by implementing optimized feature selection, hyperparameter tuning, and ensemble learning methods.
+
+Built NLP-based sentiment analysis systems using BERT, TF-IDF vectorization, NLTK, and Scikit-learn to analyze more than 100,000 customer reviews and feedback records. Improved sentiment classification accuracy by approximately 23% through transformer fine-tuning and preprocessing optimizations.
+
+Implemented real-time customer feedback analytics pipelines on AWS infrastructure using EC2, Lambda, and S3 services. Reduced data processing time by 40% by automating ingestion pipelines and optimizing batch-processing workflows.
+
+Collaborated with analytics and reporting teams to integrate machine learning outputs into dashboards and business reporting systems, enabling data-driven decision-making for marketing and customer success teams.
+
+Technologies Used:
+Python, BERT, TF-IDF, XGBoost, Scikit-learn, Pandas, NumPy, AWS EC2, AWS Lambda, AWS S3, NLTK, Jupyter Notebook, Git

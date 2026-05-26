@@ -1,0 +1,9 @@
+data/linkedin_about.txt
+
+Machine Learning Engineer with 4+ years of experience building scalable AI and machine learning solutions across NLP, deep learning, generative AI, and cloud-native ML systems. Specialized in designing production-grade ML pipelines, deploying large language models, and developing AI-powered applications using TensorFlow, PyTorch, HuggingFace Transformers, and FastAPI.
+
+Experienced in implementing retrieval-augmented generation (RAG) systems, prompt engineering workflows, vector databases, and transformer-based NLP architectures including BERT, GPT, T5, and LLaMA. Strong background in fine-tuning language models, sentiment analysis, forecasting systems, and intelligent conversational AI.
+
+Hands-on expertise with MLOps practices including Docker, Kubernetes, MLFlow, CI/CD pipelines, distributed training, model deployment, and cloud infrastructure across AWS SageMaker, Azure ML Studio, and GCP Vertex AI.
+
+Passionate about solving complex business problems using scalable AI systems, data-driven decision making, and modern machine learning engineering practices.

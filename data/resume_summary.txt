@@ -1,0 +1,11 @@
+data/resume_summary.txt
+
+Sheen Napolean is a Machine Learning Engineer with over 4 years of professional experience designing, building, deploying, and optimizing AI-driven applications and machine learning systems. His expertise spans machine learning, deep learning, natural language processing, large language models, cloud-based AI deployment, MLOps, and scalable data engineering.
+
+He has strong experience building production-grade machine learning pipelines using TensorFlow, PyTorch, Scikit-learn, HuggingFace Transformers, Apache Spark, and MLFlow. He has worked extensively with NLP systems, transformer architectures, retrieval-augmented generation systems, vector embeddings, and conversational AI systems.
+
+He has deployed machine learning workloads across AWS SageMaker, Azure Machine Learning Studio, and Google Cloud Vertex AI using Docker and Kubernetes. His work includes model monitoring, CI/CD automation, scalable ETL pipelines, feature engineering, and distributed model training.
+
+He also possesses full-stack development experience using FastAPI, Flask, Django, React.js, Node.js, and REST APIs, allowing him to integrate AI systems into user-facing applications and enterprise workflows.
+
+He completed a Master of Science in Computer Science from Northern Arizona University in 2024 and holds a Bachelor of Technology in Electronics and Communication Engineering from Scient Institute of Technology.

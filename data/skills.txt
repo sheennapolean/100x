@@ -1,0 +1,28 @@
+data/skills.txt
+
+Programming Languages:
+Python, Java, C, C++, Embedded C, R, JavaScript, Bash, Shell Scripting
+
+Machine Learning & AI:
+Machine Learning, Deep Learning, Natural Language Processing, Generative AI, Large Language Models, RAG Systems, Prompt Engineering, Fine-Tuning, Transfer Learning, Transformer Architectures, Embeddings, Tokenization, Attention Mechanisms, Knowledge Distillation, Model Compression
+
+Frameworks & Libraries:
+TensorFlow, PyTorch, Scikit-learn, HuggingFace Transformers, Keras, XGBoost, LightGBM, NLTK, SpaCy, OpenNLP, Stanford NLP, FastText, Word2Vec, Pandas, NumPy, SciPy, Matplotlib, Statsmodels
+
+Backend Development:
+FastAPI, Flask, Django, Django REST Framework, Node.js, Express.js, REST APIs, WebSockets
+
+Frontend Development:
+React.js, HTML5, CSS3, Bootstrap, Tailwind CSS, Material UI, Redux
+
+Cloud & MLOps:
+AWS SageMaker, AWS EC2, AWS Lambda, AWS S3, Azure ML Studio, GCP Vertex AI, Docker, Kubernetes, Jenkins, GitHub Actions, MLFlow, CI/CD Pipelines
+
+Databases:
+PostgreSQL, Oracle, SQL Server, MongoDB, Cassandra, Redis, DynamoDB, PL/SQL
+
+Big Data & Data Engineering:
+Apache Spark, Hadoop, ETL Pipelines, Data Preprocessing, Distributed Processing, Feature Engineering
+
+Visualization & BI:
+Power BI, Tableau, Looker, Superset, Excel, Google Data Studio
