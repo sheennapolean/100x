@@ -3,11 +3,33 @@ import requests
 from streamlit_mic_recorder import speech_to_text
 
 
+from gtts import gTTS
+import tempfile
+import os
 
 from chatBot import chat
 
 
 
+
+def speak(text):
+    """
+    Convert text to speech and return the MP3 file path.
+    """
+    tts = gTTS(
+        text=text,
+        lang="en",
+        slow=False
+    )
+
+    temp_file = tempfile.NamedTemporaryFile(
+        delete=False,
+        suffix=".mp3"
+    )
+
+    tts.save(temp_file.name)
+
+    return temp_file.name
 
 
 
@@ -240,6 +262,10 @@ with chat_container:
 st.markdown("---")
 
 col1, col2 = st.columns([8, 1])
+voice_enabled = st.toggle(
+    "🔊 Voice Response",
+    value=True
+)
 
 with col1:
     text_prompt = st.chat_input(
@@ -299,6 +325,25 @@ if prompt:
                     )
 
                     st.markdown(reply)
+
+                    if voice_enabled:
+
+                        try:
+                            audio_path = speak(reply)
+
+                            with open(audio_path, "rb") as audio_file:
+                                audio_bytes = audio_file.read()
+
+                            st.audio(
+                                audio_bytes,
+                                format="audio/mp3",
+                                autoplay=True
+                            )
+
+                            os.remove(audio_path)
+
+                        except Exception as e:
+                            st.warning(f"Voice generation failed: {e}")
 
                     # Store assistant response
                     st.session_state.messages.append({
